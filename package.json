@@ -1,0 +1,20 @@
+{
+  "name": "madara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deneme.js",
+  "scripts": {
+    "start": "node deneme.js",
+    "dev": "nodemon deneme.js",
+    "server" : "live-server"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "lodash": "^4.17.20",
+    "nodemon": "^3.0.3"
+  }
+}
